@@ -2,7 +2,7 @@
 
 import React from 'react';
 import ReactDOM from './ReactDOM';
-import ReactTransitionEvents from 'react/lib/ReactTransitionEvents';
+import ReactTransitionEvents from './ReactTransitionEvents';
 import {getTrackCSS, getTrackLeft, getTrackAnimateCSS} from './trackHelper';
 import assign from 'object-assign';
 
